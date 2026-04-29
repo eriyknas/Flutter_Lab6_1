@@ -7,7 +7,7 @@ class StudentGroup extends StatelessWidget {
       'Группа: ИСП-231',
       style: TextStyle(
         fontSize: 24,
-        color: Colors.white70,
+        color: Colors.white,
       ),
     );
   }

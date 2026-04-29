@@ -4,7 +4,7 @@ class StudentName extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      'Петр Иванов',
+      'Чешуина Анастасия\n Антонова Полина',
       style: TextStyle(
         fontSize: 32,
         fontWeight: FontWeight.bold,
